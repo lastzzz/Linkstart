@@ -1,4 +1,0 @@
-dsds
-fuck
-your
-mother
