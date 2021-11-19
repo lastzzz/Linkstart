@@ -6,7 +6,7 @@
 #include<string.h>
 #include<unistd.h>
 #include<stdlib.h>
-#include<aio.h>
+
 // 有名管道通信进程的发送数据端。
 #define N 128
 #define errlog(errmsg) do{\
